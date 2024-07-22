@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "professions-kasblar",
+  "private_key_id": "96db5428d3c97b4c1bbc70e0d1e328bf4b457eba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCY98qSH/lHUUQZ\n+Ew3jA4T2KDe/LE2NFKD6jmDVRqEyVeb2HiVj5QsfKRr09kfsYYYrSfepMwjGvFH\nm0Ac+X56NaQRhVA4yd/z8lmqdLi00o7QR0gVN+QCGSbIqS9fQXzJsKzwgk26Df6j\nq/zSpg0nZ4FQqFkaXNmY6Ktx0mEf6b5v6kb0+ZhUrv+tvnG4K8anlLSeOZ9xfecc\nVvAV+QvFr1N2CbnM2MbaIqb//bgW1xaxW/dM975nVrJLsLB4d4vuiBsRby7FEf3L\nDzvUAjkPM4neu+WK/x3GIV7Hqg4XoQriXWJp/UvSKPZQqGNzlRHFmK41LAsqrrsy\nkFWLE6sVAgMBAAECggEAIkK5kcHsjK8kcCafN3+8dXB7E4aIUGomoxoWWJZ6kowf\n/a1d0K2wU8h08RupUUJrFOLPf7vsZt51dQLOOM8ep1OVVEFGJvn8GYDJ2XY8Gm/g\ngcC9Ydc7T8b/W0kdbZnWz7us+E9PBmF1C4aNYUbEwnMZ0Q1rq45pRCi0oZErpMBW\nQMPGp/M1r9xkcVILbzK7VwqbUX/4jO9UUAF/v8IAAS7BarR6AINPCG3ZguQ4wUVq\n7hHBX3JR6UTUFhCxcUmjhPnsw2F4OmPvCbcpa9YX+iHKSEcquXZ3lqCe2zw8/XUw\ntSZTkI3V1x69BiIWd112dJGY2MUpaPK/XjWsO+2n/wKBgQDUxJjEsmtLWrHAbwUC\nPnfWHVq8mZGKxd8sE5ogQsa1Dqb7nzd/cCrZbc4QOqinFDRokL1svfC0idaccsSL\nOW8U5upr5z3IZYmxcpp8jw3t3yMIvKLjHaseHO+FXUmWfRtceU/gqU+iB/ARHKFw\nBFil34q2aX/LvWyuQn2xGCO6zwKBgQC4DJ5IfkHHOWs66Efm+SnoA/h5O5kFH7S3\n/l9aQ1No9pcBJKsqmtB8JKS2JpgAHFBFO16oZVUqZh25PYOkXIg+9yCARVFL75RF\nuWmyO424huDkt5S0vHg6+W0NHs47zjZty9OH7bzSI6Wbpng3Yigq4UifKlkqu1Pa\nDBcZclZk2wKBgAWpdadGWDSZJUHJsohswSOhhFigfY8D1PyHSQKyxDbtPORVSFTL\n11gR4/nqlbJch0iBEYljRJSJVnyzUSejT6Fuw647aRl8Gj3uns3RwL0jwvroii0h\nDPywKG+UG/E1QxUi5U1FNClLrMfHy0P/2ZwQZtCT3iK917aLbmzYB5thAoGAZEkL\n3jhdoy6YTSrQMvzFZtTzCSv+Pxp9oFwMnOReiK0EruzKD5b3zw0wasgwvq6u1mp5\nM4yzkTy/KXZpSp/Y5WZG4V3j5FqREkTrYOCuYkOsOzQE5U5kvM24LBQDD/dXFRCh\nHEngPyiJTnywuIzVkjfbGE888tnL4N4BoC37AU0CgYB1zJ3NKhplyQF7SK9cxm58\ntFLKpHJHOZlF+g2X9jdlijr2l8L5AYLrWzG8GmovjhN+poMDhDo4Vs7rn9W+NjPk\nHP7WdwcuUt1ZX2zfrvqBIFe1mJBVmF3MEI105MtK6CEBPkJmC/v1k+GLY9lZ4cQO\nMWAUiXxv/B0p1C0qoIctsA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "unity-kasblar-game@professions-kasblar.iam.gserviceaccount.com",
+  "client_id": "107661017516764090110",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/unity-kasblar-game%40professions-kasblar.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
